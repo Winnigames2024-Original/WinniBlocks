@@ -3,5 +3,9 @@
   "ru_login_title": "Вход",
   "en_login_title": "Login",
   "ru_loginbutton_text": "Авторизоватся",
-  "en_loginbutton_text": "Authorize"
+  "en_loginbutton_text": "Authorize",
+  "ru_robloxlogin_hint": "Имя пользователя из Roblox",
+  "ru_robloxpassword_hint": "Пароль от пользователя из Roblox",
+  "en_robloxlogin_hint": "User Login from Roblox",
+  "en_robloxpassword_hint": "User Password from Roblox"
 }
